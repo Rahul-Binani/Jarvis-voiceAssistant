@@ -4,7 +4,7 @@ This is a primary voice assistant which I made in the 3rd year of my college in 
 The project has been made on ECLIPSE IDE 2018-09.
 The specification of the system used to create this project is : OS - Windows 8.1, 32 bit ; RAM - 2GB ; ROM - 1TB.
 
-Make sure you download all the JAR files used in the code from Internet. You can take help from YouTube videos as for each group of JAR file, there are videos available.  
+Make sure you download all the JAR files used in the code from Internet. List of the JAR files i)ACTIVATION.JAR ii)CMU_TIME_AWB.JAR iii)CMU_US_KAL.JAR iv)CMUDICT04.JAR v)CMULEX.JAR vi)CMUTIMELEX.JAR vii)EN_US.JAR viii)FREETTS.JAR ix)FREETTS-1.2.2-BIN.JAR x)FREETTS-JSAPI.JAR xi)JSAPI.JAR xii)MAIL.JAR xiii)MBROLA.JAR xiv)SPHINX4-COR-5PREALPHA.JAR xv)SPHINX4-DATA-5PREALPHA.JAR xvi)TECHSOFTEMAIL.JAR You can take help from YouTube videos as for each group of JAR file, there are videos available.  
 After downloading all the JAR files, you have to add external JAR files to your project as referenced libraries in Eclipse. 
 
 Next up, for the commands file you will have to create a .lm file and a dictionary file. Process for the same is :- 
